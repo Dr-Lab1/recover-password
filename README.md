@@ -23,6 +23,6 @@ NB: Cette méthode peut aussi être utilisée pendant les intrusions. Mais je d�
 
 1. Lister tous les réseaux disponibles
 
-  
+    netsh wlan show profile
      
 2. Cibler une seule et récupérer les informations importantes
