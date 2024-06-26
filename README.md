@@ -33,3 +33,5 @@ NB: Cette méthode peut aussi être utilisée pendant les intrusions. Mais je d�
 3. Cibler une seule et récupérer les informations importantes
 
         netsh wlan show profile  nom_du_wifi key=clear
+
+        ![image](https://github.com/Dr-Lab1/recover-password/assets/96502938/34867686-030a-4702-96b9-025f1fc1e8f9)
