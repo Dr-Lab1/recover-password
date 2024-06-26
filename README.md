@@ -15,6 +15,6 @@ NB: Cette méthode peut aussi être utilisée pendant les intrusions. Mais je d�
 
 
 ## Etapes
-1. Ouvrir le Powershell ou l'invite de commandes
+1. Ouvrir le Powershell ou l'invite de commandes.
 2. Taper les commande ci-dessous
 3. Exploiter les résultats selon ses besoins
