@@ -27,7 +27,7 @@ NB: Cette méthode peut aussi être utilisée pendant les intrusions. Mais je d�
         netsh wlan show profile
 
 
-       ![image](https://github.com/Dr-Lab1/recover-password/assets/96502938/ecc821d2-e284-4283-8fce-925d3dc9d2b9)
+   ![image](https://github.com/Dr-Lab1/recover-password/assets/96502938/ecc821d2-e284-4283-8fce-925d3dc9d2b9)
 
      
 3. Cibler une seule et récupérer les informations importantes
