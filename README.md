@@ -26,7 +26,6 @@ NB: Cette méthode peut aussi être utilisée pendant les intrusions. Mais je d�
         # Cette commande permet d'afficher tous les réseaux disponibles
         netsh wlan show profile
 
-   ![image](https://github.com/Dr-Lab1/recover-password/assets/96502938/76d4c55c-17fe-44bb-b098-8cb4db489c61)
 ![image](https://github.com/Dr-Lab1/recover-password/assets/96502938/ecc821d2-e284-4283-8fce-925d3dc9d2b9)
 
      
