@@ -10,3 +10,5 @@ Le seul outil que nous allons utiliser est le Powershell.
 
 1. Notre propre machine
 2. Machine distante
+
+NB: Cette méthode peut aussi être utilisée pendant les intrusions. Mais je décline toute responsabilité en cas d'utilisation de ce tutoriel à des fins illicites.
