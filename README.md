@@ -27,3 +27,5 @@ NB: Cette méthode peut aussi être utilisée pendant les intrusions. Mais je d�
         netsh wlan show profile
      
 2. Cibler une seule et récupérer les informations importantes
+
+        netsh wlan show profile  nom_du_wifi key=clear
